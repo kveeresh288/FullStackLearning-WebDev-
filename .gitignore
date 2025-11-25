@@ -1,0 +1,14 @@
+# macOS metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Files starting with ._
+._*
+
+# Icon files
+Icon?
+
+# Thumbnails
+._.DS_Store._*
+.DS_Store
